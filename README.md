@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DJ Child!
 - 😯 I'm a 13 boy from China
-- 👀 I’m interested in Electronic Dance Music
+- 👀 I’m very interested in Electronic Dance Music
 - 🤩 And I want to be a great music producer in my future
 - 😀 You can find me from NetEase Cloud Music
 - 🌱 I’m currently learning Python and GitHub

@@ -1,15 +1,14 @@
-- 👋 Hi, I’m DJ Child!
-- 😯 I'm a 13 boy from China
+- 👋 Hi, I’m Je80n!
 - 👀 I’m very interested in Electronic Dance Music
 - 🤩 And I want to be a great music producer in my future
-- 😀 You can find me from NetEase Cloud Music
+- 😀 You can find me from SoundCloud
 - 🌱 I’m currently learning Python and GitHub
-- 💞️ I’m looking to collaborate on QQ or WeChat
-- 📫 How to reach me : You can send some e-mail to 3179267049@qq.com
+- 💞️ I’m looking to collaborate on Facebook and Discord
+- 📫 How to reach me : You can search Je80n_Official#2798 at Discord and chat with me
 
 Thanks❤️
 
 <!---
-666-DJChild-666/666-DJChild-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+666-je80n-666/666-je80n-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Je80n!
-- 👀 I’m very interested in Electronic Dance Music
+- 👋 Hi, I’m DJ Child!
+- 👀 I’m very interested in Electronic Music
 - 🤩 And I want to be a great music producer in my future
 - 😀 You can find me from SoundCloud
 - 🌱 I’m currently learning Python and GitHub
@@ -9,6 +9,6 @@
 Thanks❤️
 
 <!---
-666-je80n-666/666-je80n-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+666-djchild-666/666-djchild-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

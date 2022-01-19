@@ -3,8 +3,8 @@
 - 🤩 And I want to be a great music producer in my future
 - 😀 You can find me from SoundCloud
 - 🌱 I’m currently learning Python and GitHub
-- 💞️ I’m looking to collaborate on Facebook and Discord
-- 📫 How to reach me : You can search Je80n_Official#2798 at Discord and chat with me
+- 💞️ I’m looking to collaborate with you
+- 📫 How to reach me : You can send emails to 1520905388@qq.com
 
 Thanks❤️
 
